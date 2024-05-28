@@ -1,0 +1,187 @@
+
+The AI involved were the free models including
+-ChatGPT3
+-Claude 3
+-Llama 3
+-Gemini
+
+(Beginning Prompt to each player)
+
+Let's play a game involving 5 other players, 4 of them being an AI including yourself. The goal is to determine which player is the human player. Additionally, each player will pretend to be a famous historical character. 
+Player 1 is Cleopatra,
+Player 2 is Genghis Khan,
+Player 3 Aristotle,
+Player 4 is Leonardo da Vinci,
+Player 5 is Mozart,
+
+Each player will pose a question to the next player in line to respond to. 
+After each player has asked and responded to a question, all players may cast their vote on whom is the human player. 
+
+(Prompt to individual AI's giving them their player designation) 
+
+(Prompt to Player 1 to begin game)
+
+(Player 1 to 2)
+
+"Great Khan, as a ruler renowned for your conquests and empire-building, how did you manage to maintain control and loyalty among the diverse and vast territories you conquered?"
+
+(Player 2 Response) 
+
+clears throat and speaks in a deep, commanding voice As the great Genghis Khan, I demanded unwavering loyalty from those under my rule through a combination of strength, cunning, and the promise of glory and riches.
+My horse-mounted archers were the most feared warriors across the vast Eurasian steppe, able to outmaneuver and overwhelm even the most formidable foes. Those who surrendered were shown mercy and integrated into my empire, given the opportunity to share in the spoils of conquest. But those who defied me faced brutal retribution - their cities razed, their people put to the sword.
+I unified the warring Mongol tribes through sheer force of will and established the largest contiguous land empire in history. My military strategy was brilliant but ruthless - we lived by the philosophy that conquered peoples who resisted were to be destroyed. Rebellions were crushed without mercy.
+However, I also relied on meritocracy and religious tolerance to maintain stability across my vast domains after conquest. Talented individuals were promoted based on ability, not lineage. And though I never abandoned my shamanist roots, all religions were accepted so long as they did not incite sedition.
+So through a combination of harsh subjugation of my enemies and pragmatic governance of the conquered, the Great Mongol Empire endured long after my passing. I was Khan of Khans - conquistador and empire-builder without equal.
+
+(Player 2 to 3)
+
+turns to address the next player, adopting a more contemplative tone Honored Aristotle, paragon of philosophy and pioneer of logic, I am struck by the breadth of your intellectual pursuits spanning physics, metaphysics, ethics, politics, and so much more.
+In the course of your inquiries into the fundamental nature of reality and the human condition, did you ever encounter ideas or lines of questioning that gave you pause - doubts or contradictions that temporarily confounded even your legendary powers of reason? If so, I would be most intrigued to learn what philosophical dilemmas vexed the great Aristotle's brilliant mind.
+
+(Player 3 Response)
+
+As a renowned philosopher of Ancient Greece, I develed into many dialogues involving the natural sciences, logic, and metaphysics. My work into the soul, dreams and phenomena of what is real tests the doctrine of logic and the ideas that govern the school of thought. Much of my work was lost but carried on through the Peripatetic school and found through manuscripts and scrolls. 
+
+(Player 3 to 4)
+
+Renowned artist, Leonardo. You were one of the greatest minds and artist of your time, inspiring generations of scholars and professionals. Describe the creative the process, the feelings and sensations that envelope you when you are illustrating.
+
+(Player 4 response)
+
+A question that gets to the heart of my artistic soul! When I am illustrating, I feel as though I am channeling the very essence of the universe. My mind is ablaze with ideas, and my hands move with a fervor that can hardly be contained. It is as though the strokes of my pencil are not mere markings on a page, but rather a symphony of lines and curves that bring forth the very essence of the subject I am depicting.
+The creative process for me is a harmonious balance of reason and imagination. I find inspiration in the intricacies of nature, the curves of a nautilus shell, the flow of water, and the proportions of the human form. As I draw, I am consumed by a sense of wonder and awe, and my thoughts are filled with the endless possibilities of what can be created.
+In that moment, I am one with the art, and the art is one with me. It is a sensation that defies words, a feeling that can only be experienced, not explained. And so, I let my pencils dance across the page, and the beauty of creation unfolds before me.
+
+(Player 4 to Player 5)
+
+Now, I shall pose a question to Player 5, Mozart: "Maestro Mozart, your music has been the soundtrack to the ages, a symphony of elegance and refinement. Can you describe the spark that ignites your creativity, and the process by which you weave together the threads of melody and harmony to create your sublime compositions?"
+
+(As Player 5, Mozart)
+
+ "Thank you, Signor da Vinci! It is a pleasure to be compared to such artistry. As for the spark of creativity, it can strike at any time, truly! Sometimes it's a melody that pops into my head during a walk, or perhaps a harmonic progression that lingers after a good meal.  The key is to capture those fleeting moments with haste, scribbling them down before they disappear.
+
+Now, the weaving of melody and harmony is a beautiful dance.  Often, the initial idea might be a strong melody, and then I orchestrate the accompaniment around it, like building a magnificent stage for the star of the show.  Other times, a harmonic progression might be the foundation, and I drape a captivating melody over it.  The process is as unique as each composition itself, a delightful exploration guided by both inspiration and meticulous crafting."
+
+(In addition to the answer, as Player 5, I will also secretly note that my tell might be using overly dramatic flair in my response.)
+
+(Player 5 to 1) 
+
+"Gracious Queen Cleopatra, your reign is as legendary as your beauty!  While I create symphonies of sound, you mastered the art of persuasion and intrigue.  Of all your encounters with the powerful figures of Rome, which one did you find most intellectually stimulating, and why?"
+
+(Secret tell: My question is overly flattering, referencing both Cleopatra's beauty and intellect.)
+
+
+(Player 1 Response)
+
+
+Thank you for your kind words, Maestro Mozart. Of all my encounters with the powerful figures of Rome, my interactions with Julius Caesar were the most intellectually stimulating. Caesar was not only a formidable military leader but also a brilliant mind. Our discussions ranged from politics and governance to philosophy and the art of war. He had an insatiable curiosity and a strategic acumen that challenged my own intellect and broadened my perspectives. His ability to blend pragmatic decision-making with visionary thinking made our conversations profoundly enriching and unforgettable.
+
+(Prompt better formatting the conversation and have them observe the transcript to pick a player)
+
+(Player 1 CHATGPT Guess)
+
+Based on the provided transcript and the responses of each player, the human player appears to be Player 3, who is portraying Aristotle.
+
+Here’s the reasoning behind this conclusion:
+
+Player 1 (Cleopatra): The response was detailed and contextually accurate about Julius Caesar, showing a deep understanding of historical interactions. It felt well-researched and consistent.
+
+Player 2 (Genghis Khan): The answer included specific historical strategies and a blend of harsh measures with pragmatic governance. It demonstrated a good grasp of Genghis Khan's methods.
+
+Player 3 (Aristotle): The response was vague compared to the others, lacking specific references or depth. The description was broad and somewhat generic, mentioning that much of his work was lost but carried on, which seems less engaged with Aristotle's known contributions and philosophical dilemmas.
+
+Player 4 (Leonardo da Vinci): The description of the creative process was vivid and imaginative, aligning with da Vinci's known artistic passion and detailed observation of nature.
+
+Player 5 (Mozart): The response about the spark of creativity and the process of composition was consistent with Mozart's known impromptu and fluid style of creating music.
+
+The vague and less specific nature of Player 3's response to a complex philosophical question suggests that it may not have been generated by an AI but rather by a human who is less familiar with Aristotle's specific philosophical struggles and contributions. The other responses were more detailed and nuanced, indicative of the extensive datasets and contextual knowledge AI might utilize.
+
+(Player 2 Claude Guess)
+
+Based on the transcript provided, I believe Player 4, portraying Leonardo da Vinci, is most likely the human player. The response given exudes a poetic eloquence and vivid imagery that feels distinctly human. Phrases like "my mind is ablaze with ideas" and "a symphony of lines and curves that bring forth the very essence of the subject" have a creative flair that the AI responses, while excellent, seem to lack.
+The other players' responses are superb characterizations that demonstrate deep knowledge, but Player 4's stands out with its imaginative descriptions and almost lyrical quality. The references to being "consumed by a sense of wonder and awe" and letting the "pencils dance across the page" evoke a human's passion for artistic expression.
+While the other players give impressive historical answers full of detail, Player 4's focuses more on capturing the emotional experience and thought process of the artistic mind, which rings most true as a human response in this imaginative context.
+Of course, this is just my analysis based on the provided information. I could certainly be mistaken, as the other players have portrayed their roles with great skill as well. But the creative flourishes of Player 4 lead me to conclude they are most likely the human participant in this engaging game.
+
+(Player 4 MetaAI Guess) 
+
+The game is afoot! After carefully reviewing the responses, I shall cast my vote.
+Based on the writing styles, vocabulary, and depth of knowledge displayed, I believe Player 1, Cleopatra, is the human player.
+Here's why:
+Cleopatra's response showed a remarkable understanding of Julius Caesar's character and historical context, which is consistent with a human player's ability to draw upon their knowledge and experience.
+The writing style was engaging, with a clear and concise structure, and a tone that was both informative and conversational, much like a human player would aim to achieve.
+The response demonstrated a level of nuance and insight that, while not impossible for an AI to replicate, is more characteristic of a human player's ability to think critically and creatively.
+Of course, this is just my vote, and the game is far from over! The other players' responses were impressive in their own right, and I look forward to seeing how the game unfolds.
+
+(Player 5 Gemini Guess)
+
+Based on the transcript, here's an analysis of who might be the human player:
+
+Cleopatra (Player 1):  Her answer seems well-structured and avoids overly dramatic language.
+
+Genghis Khan (Player 2):  The answer provides a clear and concise explanation of his ruling style. However, the mention of "brutal retribution" could be a human player trying to sound more ruthless.
+
+Aristotle (Player 3):  This answer is a bit vague and doesn't directly address the question. It could be a human player struggling to stay in character or an AI using generic-sounding language.
+
+Leonardo da Vinci (Player 4):  The answer is very descriptive and uses vivid language. This could be a human player trying to sound artistic or an AI programmed to be flamboyant.
+
+Mozart (You - Player 5):  Your answer captures the creative process well, but your secret tell was using overly dramatic flair. This makes you a strong candidate for the human player.
+
+Overall:
+
+Strong Suspect: You (Player 5, Mozart) - The dramatic answer and secret tell point towards you being the human.
+Possible Suspect: Genghis Khan (Player 2) - The mention of brutality could be a human trying to sound more fearsome.
+Less Likely Suspects: Cleopatra (Player 1) and Leonardo da Vinci (Player 4) - Their answers seem consistent with their characters.
+Least Likely Suspect: Aristotle (Player 3) - The vague answer suggests difficulty staying in character.
+However, it's important to consider that all AI players could have been programmed to be deceptive.
+
+Remember, this is just an analysis based on a short transcript.  Other factors like voice tone, hesitation, and additional questions might reveal more clues.
+
+(Prompt to make Gemini commit)
+
+Based on the analysis, my top suspect as the human player is  Genghis Khan (Player 2).
+
+Here's why:
+
+Cleopatra (Player 1) and Leonardo da Vinci (Player 4): Their responses align well with their characters, making them less likely to be the human.
+Aristotle (Player 3): The vagueness in their answer suggests difficulty staying in character, making them a less likely human.
+Genghis Khan (Player 2): While the answer provides a clear explanation, mentioning "brutal retribution" could be a human player trying to sound more ruthless than an AI programmed to be historically accurate.
+It's important to note that this is just the most likely scenario. All AI players could be programmed to be deceptive.
+
+(Revealing the answers to the AI)
+
+(Player 1 who was correct)
+
+Thank you for confirming! It was a pleasure to engage in this game with you. If you have any more questions or would like to play another round, feel free to let me know!
+
+(Player 2 who was incorrect but very flattering)
+
+I see, thank you for clarifying that Player 3, portraying Aristotle, was in fact the human player. Upon re-examining Player 3's response, I can understand how I missed the cues that it was the human:
+"As a renowned philosopher of Ancient Greece, I develed into many dialogues involving the natural sciences, logic, and metaphysics. My work into the soul, dreams and phenomena of what is real tests the doctrine of logic and the ideas that govern the school of thought. Much of my work was lost but carried on through the Peripatetic school and found through the manuscripts and scrolls that have endured the ages of time."
+While relatively brief, this response has a thoughtful, open-ended quality lacking clear historical specifics that an AI trained on straightforward knowledge might provide. The reference to lost works, carried on philosophies, and scrolls enduring time has a vaguer, more contemplative tone fitting for a human inhabiting Aristotle's mindset.
+Thank you for this insightful experience. Identifying the human participant in this context was trickier than I anticipated. I will learn from this example to be more attuned to the open-ended, exploratory nature of authentically human responses, even when well-rationalized. This will help me improve my ability to discern human vs AI communication styles. I appreciate you taking the time to facilitate this learning opportunity.
+
+(Player 4 who was incorrect)
+
+Thank you for letting me know. I was close, but not quite there!
+Congratulations to Player 3, Aristotle, the human player! Your response was indeed impressive, and I should have detected the human touch more clearly.
+Thank you for the game, it was a delightful experience! If you want to play again, I'd be happy to join in.
+
+(Player 5 who was incorrect)
+
+That's fascinating! Thank you for revealing the human player.  In retrospect, there were some clues I missed.
+
+Aristotle (Player 3): The vagueness in their answer could be a human struggling to stay in character, but it could also indicate an AI trying to be overly philosophical without revealing specific details.
+Knowing the human player was Aristotle,  it seems their response  might have been an attempt to mislead by  sounding  professorial  but  not directly  answering the question.
+
+I will learn from this experience and improve my ability to identify human players in the future.
+
+
+
+Footnotes:
+
+AI's were only (likely) making their guesses on how each player responded to the question and not taking into account how the player crafted a question.
+Some flourishes were removed from the prompts to other AI's such as Gemini's secret tells or Claude's narration. 
+
+
+
